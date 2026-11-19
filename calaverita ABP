@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calaverita Literaria</title>
+    <link rel="stylesheet" href="estilos.css">
+</head>
+
+<body>
+
+    <main class="contenedor">
+
+        <h1>💀 La Catrina en la escuela 💀</h1>
+
+        <img src="catrina.png" alt="Ilustración de una Catrina">
+
+        <p class="poema">
+            La Catrina llegó a la escuela,<br>
+            buscando alumnos para su cena,<br>
+            entró al salón muy elegante,<br>
+            y vio a la maestra bastante ocupante.<br><br>
+
+            —¡Ya llegó la hora de partir!<br>
+            ¡Dejen sus libros y vamos a salir!<br>
+            Pero un alumno muy sonriente,<br>
+            le dijo: «¡Tengo tarea pendiente!».<br><br>
+
+            La Muerte se puso a temblar,<br>
+            pues no sabía ni cómo estudiar,<br>
+            abrió su cuaderno con mucho temor,<br>
+            ¡y hasta matemáticas le dio dolor!<br><br>
+
+            La maestra le puso un examen,<br>
+            la Catrina gritó: «¡Que alguien me salve!»,<br>
+            prefirió regresar al panteón,<br>
+            ¡antes que reprobar la lección!
+        </p>
+
+        <h2>🌼 ¡Feliz Día de Muertos! 🌼</h2>
+
+    </main>
+ <script src="script.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,67 @@
+
+/* Estilos generales */
+body {
+    background: linear-gradient(135deg, #100c1c, #32152e, #511f26);
+    color: #fff;
+    font-family: Georgia, serif;
+    text-align: center;
+    margin: 0;
+    padding: 30px;
+}
+
+/* Contenedor principal */
+.contenedor {
+    max-width: 700px;
+    margin: auto;
+    padding: 30px;
+    background-color: rgba(0, 0, 0, 0.55);
+    border: 2px solid #e58b32;
+    border-radius: 20px;
+    box-shadow: 0 0 25px #e58b32;
+}
+
+/* Título */
+h1 {
+    color: #ff9d35;
+    font-family: Georgia, serif;
+    font-size: 35px;
+    text-shadow: 3px 3px 8px #ff4500;
+}
+
+/* Imagen */
+img {
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+    border-radius: 20px;
+    box-shadow: 0 0 20px #ff9d35;
+    transition: transform 0.5s, box-shadow 0.5s;
+}
+
+/* Efecto al pasar el mouse */
+img:hover {
+    transform: scale(1.08);
+    box-shadow: 0 0 30px #ff4500;
+}
+
+/* Poema */
+.poema {
+    font-family: Georgia, serif;
+    font-size: 19px;
+    line-height: 1.8;
+    color: #f8e7d0;
+    margin-top: 25px;
+}
+
+/* Texto final */
+h2 {
+    color: #ffae42;
+    text-shadow: 2px 2px 6px #ff4500;
+    margin-top: 30px;
+}
+/* Efecto al hacer clic en la imagen */
+.imagenGrande {
+    transform: scale(1.2);
+    box-shadow: 0 0 35px #ff4500;
+    cursor: pointer;
+}
